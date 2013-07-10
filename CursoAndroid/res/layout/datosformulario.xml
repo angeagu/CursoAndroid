@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TableLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+    		  
+<TableRow
+	android:id="@+id/tableRow1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >	
+    
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mostrarJugadores" />
+	
+	<TextView
+	    android:id="@+id/mostrarJugadoresValue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+		   
+</TableRow>
+
+<TableRow
+	android:id="@+id/tableRow2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >
+	    
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/equipo" />
+	
+	<TextView
+	    android:id="@+id/equipoValue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+</TableRow>
+
+<TableRow
+	android:id="@+id/tableRow3"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >
+	
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/competicion" />
+    
+    <TextView
+        android:id="@+id/competicionValue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />	
+         
+</TableRow>
+
+    
+</TableLayout>

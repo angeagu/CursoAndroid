@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:id="@+id/LinearLayout01" 
+			  android:orientation="vertical"
+    		  android:layout_width="fill_parent"
+    		  android:layout_height="fill_parent">
+			  
+	<TextView  
+    	android:id="@+id/TextViewSaludo" 
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+    	android:text="@string/introduzcaNombre"
+    />
+	
+	<EditText 
+		android:id="@+id/EditTextSaludo" 
+		android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 	
+	/>
+	
+	<Button
+		android:id="@+id/boton_aceptar"
+		android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content"
+    	android:text="@string/botonAceptar"
+	/>
+	
+
+</LinearLayout>

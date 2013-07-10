@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<equipos>
+
+	<equipo>
+		<nombre>Real Madrid</nombre>
+		<presidente>Florentino Pérez</presidente>
+		<jugador1>Cristiano Ronaldo</jugador1>
+		<jugador2>Iker Casillas</jugador2>
+		<jugador3>Xabi Alonso</jugador3>
+	</equipo>
+
+	<equipo>
+		<nombre>F.C. Barcelona</nombre>
+		<presidente>Sandro Rosell</presidente>
+		<jugador1>Leo Messi</jugador1>
+		<jugador2>Xavi</jugador2>
+		<jugador3>Andrés Iniesta</jugador3>
+	</equipo>
+	
+</equipos>

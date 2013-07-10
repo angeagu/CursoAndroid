@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent" >
+    		  
+<TableRow
+	android:id="@+id/tableRow1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >	
+    
+	<CheckBox android:id="@+id/checkBoxFormulario"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Mostrar Jugadores" />    
+</TableRow>
+
+<TableRow
+	android:id="@+id/tableRow2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >
+	    
+	<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/radioGroupText" />
+	
+	<RadioGroup
+		android:id="@+id/radioGroupEquipos"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" >
+
+		<RadioButton
+			android:id="@+id/radio0"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:checked="true"
+			android:text="Real Madrid" />
+
+		<RadioButton
+			android:id="@+id/radio1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="F.C. Barcelona" />
+
+		<RadioButton
+			android:id="@+id/radio2"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Atlético Madrid" />
+		</RadioGroup>
+</TableRow>
+
+<TableRow
+	android:id="@+id/tableRow3"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >
+	
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/listViewText" />	
+    
+	 <ListView
+		android:id="@+id/listViewJugadores"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content" >
+	 </ListView>   
+</TableRow>
+
+<TableRow
+	android:id="@+id/tableRow4"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >
+	 
+	 <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/spinnerText" />
+	     
+	 <Spinner
+		android:id="@+id/spinnerCompeticion"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content" />
+
+</TableRow>   
+
+<TableRow
+	android:id="@+id/tableRow5"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content" >
+
+    <Button
+		android:id="@+id/boton_enviar"
+		android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content"
+    	android:text="@string/botonEnviar"
+	/>
+    	 
+</TableRow>
+    
+</TableLayout>

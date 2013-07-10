@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CursoAndroid</string>
+    <string name="hello">Hola Mundo! Este es el Curso de Android!</string>
+    <string name="helloWidget">Hola! Este es mi primer Widget!</string>
+    
+    <string name="celda1">Celda Número 1</string>
+    <string name="celda2">Celda Número 2</string>
+    <string name="celda3">Celda Número 3</string>
+    <string name="celda4">Celda Número 4</string>
+    
+    <string name="introduzcaNombre">Introduzca su nombre: </string>
+    <string name="botonAceptar">Aceptar</string>
+    <string name="botonEnviar">Enviar</string>
+    <string name="botonGuardar">Guardar</string>
+    <string name="botonNuevaFactura">Nueva Factura</string>
+    
+    <string name="checkBoxText">Mostrar Jugadores:</string>
+    <string name="radioGroupText">Seleccione Equipo:</string>
+    <string name="listViewText">Seleccione Jugador:</string>
+    <string name="spinnerText">Seleccione Competicion: </string>
+    
+    <string name="mostrarJugadores">Mostrar Jugadores?</string>
+    <string name="equipo">Equipo:</string>
+    <string name="competicion">Competicion:</string>
+    
+    <string name="aplicacionMenu">Aplicacion con Menus</string>
+    
+    <string name="concepto">Concepto</string>
+    <string name="fecha">Fecha</string>
+    <string name="importe">Importe</string>
+    
+    <string name="miwidget">Mi Widget</string>  
+
+</resources>

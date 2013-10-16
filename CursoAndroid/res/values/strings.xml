@@ -31,6 +31,16 @@
     <string name="fecha">Fecha</string>
     <string name="importe">Importe</string>
     
-    <string name="miwidget">Mi Widget</string>  
+    <string name="miwidget">Mi Widget</string>
+    
+    <string name="precision">Precision (Metros)</string>
+    <string name="altitud">Altitud (Metros)</string>
+    <string name="latitud">Latitud (Grados)</string>
+    <string name="longitud">Longitud (Grados) </string>
+    <string name="velocidad">Velocidad (Km/hora)</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="detener">Detener</string>
+    <string name="obtener_datos_gps">Obtener Datos GPS</string>
+    <string name="calcular_distancia">Calcular Distancia</string>    
 
 </resources>

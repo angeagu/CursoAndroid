@@ -10,16 +10,63 @@
     <uses-permission android:name="android.permission.FLASHLIGHT"
     	android:permissionGroup="android.permission-group.HARDWARE_CONTROLS"
     	android:protectionLevel="normal" />
+    
+    <!-- Permisos para el GPS -->
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 	<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+	<!-- Fin Permisos para el GPS -->
     
+	<!-- Permisos para el API de Google Maps -->
+	<permission
+      android:name="org.android.cursoandroid.mapas.permission.MAPS_RECEIVE"
+      android:protectionLevel="signature"/>
+ 
+	<uses-permission android:name="org.android.cursoandroid.mapas.permission.MAPS_RECEIVE"/>
+	
+	<uses-permission android:name="android.permission.INTERNET"/>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+	
+	<uses-feature android:glEsVersion="0x00020000"
+              android:required="true"/>
+	
+	<!-- Fin Permisos para el API de Google Maps -->
+	
     <uses-feature android:name="android.hardware.camera" />
     
     <application
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
-         
+        
+        <!-- Añadimos la API Key de Google Maps para utilizar los mapas -->
+        <meta-data android:name="com.google.android.maps.v2.API_KEY"
+               	   android:value="AIzaSyBh_yVN1Wohg9iLeLpvYSXdNBwE1ItxeEA"/>
+        
+        <!--  Añadimos la libreria de mapas 
+        OJO!! QUE SIN ESTO NO FUNCIONA!! -->
+        <uses-library
+        android:name="com.google.android.maps"
+        android:required="false" />
+        
+        <!-- 
+        <activity
+            android:label="@string/app_name"
+            android:name=".mapas.MapsActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        -->
+        
+        <activity android:name=".mapas.MostrarRutaActivity">
+        	<intent-filter>
+        		<action android:name="android.intent.action.view" />
+        		<category android:name="android.intent.category.DEFAULT" />
+        	</intent-filter>
+       	</activity>
         
         <activity
             android:label="@string/app_name"
@@ -70,6 +117,8 @@
         <meta-data
            android:name="android.appwidget.provider"
            android:resource="@xml/miwidget_wprovider" />
+        
+        
         
     </receiver>
             

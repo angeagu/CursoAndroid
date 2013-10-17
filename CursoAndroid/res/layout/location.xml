@@ -188,13 +188,27 @@
               
           </TableRow>
           
+          <TableRow
+        	android:id="@+id/tableRow8"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content" >
+        	
+              <Button
+        		android:id="@+id/botonCalcularDistancia"
+        		android:layout_width="wrap_content"
+        		android:layout_height="wrap_content"
+        		android:text="@string/calcular_distancia" />
+              
+    		  <Button
+        		android:id="@+id/botonVerRuta"
+        		android:layout_width="wrap_content"
+        		android:layout_height="wrap_content"
+        		android:text="@string/ver_ruta" />
+              
+          </TableRow>
+          
     </TableLayout>   
 
-    <Button
-        android:id="@+id/botonCalcularDistancia"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/calcular_distancia" />
-              
+    
         
 </LinearLayout>

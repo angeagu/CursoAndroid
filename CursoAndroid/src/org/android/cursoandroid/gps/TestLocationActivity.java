@@ -1,16 +1,19 @@
 package org.android.cursoandroid.gps;
 
 import java.text.DecimalFormat;
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Collection;
 import java.util.Date;
-import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
 import org.android.cursoandroid.R;
+import org.android.cursoandroid.mapas.MostrarRutaActivity;
+import org.android.cursoandroid.utils.VentanaAlerta;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Color;
 import android.location.Location;
 import android.location.LocationListener;
@@ -23,10 +26,12 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.google.android.gms.maps.model.LatLng;
+
 public class TestLocationActivity extends Activity {
 	    /** Called when the activity is first created. */
 	    
-	    private Map mapaCoordenadas = new HashMap();
+	    private ArrayList mapaCoordenadas = new ArrayList();
 	    private Date fechaInicio;
 	    private Date fechaFin;
 	    
@@ -139,13 +144,24 @@ public class TestLocationActivity extends Activity {
 	        		}
 	        	});
 	        	
-	        	//Definimos el listener del Botón Detener
+	        	//Definimos el listener del Botón Calcular Distancia
 	        	Button botonCalcularDistancia = (Button) this.findViewById(R.id.botonCalcularDistancia);
 	        	botonCalcularDistancia.setOnClickListener(new OnClickListener() {
 	        		public void onClick(View v) {   			
 	        			//Detenemos la obtención de datos del GPS.
 	        			locationManager.removeUpdates(listener);
 	        			calcularInforme(mapaCoordenadas);
+	        		}
+	        	});
+	        	
+	        	//Definimos el listener del Botón Detener
+	        	Button botonVerRuta = (Button) this.findViewById(R.id.botonVerRuta);
+	        	botonVerRuta.setOnClickListener(new OnClickListener() {
+	        		public void onClick(View v) {   			
+	        			Intent i = new Intent(TestLocationActivity.this,MostrarRutaActivity.class);
+	        			Bundle bundle = new Bundle();
+	        			i.putExtra("mapa_coordenadas", mapaCoordenadas);
+	        			startActivity(i);
 	        		}
 	        	});
 	        	
@@ -167,7 +183,7 @@ public class TestLocationActivity extends Activity {
 		etLatitud.setText(Double.toString(latitud));
 		EditText etLongitud = (EditText) this.findViewById(R.id.EditTextLongitud);
 		etLongitud.setText(Double.toString(longitud));
-		mapaCoordenadas.put(mapaCoordenadas.size(), String.valueOf(latitud)+"%"+String.valueOf(longitud));
+		mapaCoordenadas.add(new LatLng(latitud,longitud));
 		
 		EditText etVelocidad = (EditText) this.findViewById(R.id.EditTextVelocidad);
 		etVelocidad.setText(Double.toString(velocidad));
@@ -184,7 +200,7 @@ public class TestLocationActivity extends Activity {
 		VentanaAlerta.mostrarAlerta(this, mensaje);
 	}
 	
-	private void calcularInforme(Map mapaCoordenadas) {
+	private void calcularInforme(ArrayList mapaCoordenadas) {
 		double distancia = 0;
 		double latitud1;
 		double longitud1;
@@ -205,21 +221,18 @@ public class TestLocationActivity extends Activity {
 			VentanaAlerta.mostrarAlerta(this, "No hay coordenadas GPS disponibles.");
 		}
 		else {
-			Collection col = mapaCoordenadas.values();
-			Iterator it = col.iterator();
+			Iterator it = mapaCoordenadas.iterator();
 			while (it.hasNext()) {
 				//Primera coordenada
-				String cadena = (String)it.next();
-				String[] tokens = cadena.split("%");
-				latitud1 = Double.parseDouble(tokens[0]);
-				longitud1 = Double.parseDouble(tokens[1]);
+				LatLng latlong = (LatLng)it.next();
+				latitud1 = latlong.latitude;
+				longitud1 = latlong.longitude;
 				//Segunda coordenada
 				if (it.hasNext()) {
 					//Si no hay siguiente es que no hay coordenada.
-					String cadena2 = (String)it.next();
-					String[] tokens2 = cadena2.split("%");
-					latitud2 = Double.parseDouble(tokens2[0]);
-					longitud2 = Double.parseDouble(tokens2[1]);
+					LatLng latlong2 = (LatLng)it.next();
+					latitud2 = latlong2.latitude;
+					longitud2 = latlong2.longitude;
 					distancia = distancia + distancia(latitud1,longitud1,latitud2,longitud2);
 				}
 			}

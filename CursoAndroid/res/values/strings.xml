@@ -41,6 +41,7 @@
     <string name="tiempo">Tiempo</string>
     <string name="detener">Detener</string>
     <string name="obtener_datos_gps">Obtener Datos GPS</string>
-    <string name="calcular_distancia">Calcular Distancia</string>    
+    <string name="calcular_distancia">Calcular Distancia</string>
+    <string name="ver_ruta">Ver Ruta</string>    
 
 </resources>

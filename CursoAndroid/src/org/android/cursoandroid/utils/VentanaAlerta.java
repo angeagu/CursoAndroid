@@ -1,4 +1,4 @@
-package org.android.cursoandroid.gps;
+package org.android.cursoandroid.utils;
 
 import android.app.AlertDialog;
 import android.content.Context;

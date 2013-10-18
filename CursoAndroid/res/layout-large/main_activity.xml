@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- INTERFAZ PARA LA PANTALLA GRANDE EN VERTICAL -->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+ 
+    <fragment class="org.android.cursoandroid.fragments.MenuFragment"
+        android:id="@+id/MenuFragment"
+        android:layout_weight="60"
+        android:layout_width="match_parent"
+        android:layout_height="0px" />
+ 
+    <fragment class="org.android.cursoandroid.fragments.ExplanationFragment"
+        android:id="@+id/ExplanationFragment"
+        android:layout_weight="40"
+        android:layout_width="match_parent"
+        android:layout_height="0px" />
+ 
+</LinearLayout>

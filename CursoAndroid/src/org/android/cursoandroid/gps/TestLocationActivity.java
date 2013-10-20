@@ -157,11 +157,15 @@ public class TestLocationActivity extends Activity {
 	        	//Definimos el listener del Botón Detener
 	        	Button botonVerRuta = (Button) this.findViewById(R.id.botonVerRuta);
 	        	botonVerRuta.setOnClickListener(new OnClickListener() {
-	        		public void onClick(View v) {   			
-	        			Intent i = new Intent(TestLocationActivity.this,MostrarRutaActivity.class);
-	        			Bundle bundle = new Bundle();
-	        			i.putExtra("mapa_coordenadas", mapaCoordenadas);
-	        			startActivity(i);
+	        		public void onClick(View v) {   
+	        			if (!mapaCoordenadas.isEmpty()) {
+	        				Intent i = new Intent(TestLocationActivity.this,MostrarRutaActivity.class);
+	        				i.putExtra("mapa_coordenadas", mapaCoordenadas);
+	        				startActivity(i);
+	        			}
+	        			else {
+	        				VentanaAlerta.mostrarAlerta(v.getContext(), "No hay coordenadas GPS disponibles.");
+	        			}
 	        		}
 	        	});
 	        	

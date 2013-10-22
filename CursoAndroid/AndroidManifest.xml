@@ -81,7 +81,6 @@
         
          --> 
         
-        <!-- 
         <activity
             android:label="@string/app_name"
             android:name=".camara.CamaraActivity" >
@@ -90,8 +89,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        -->
         
+        <!-- 
         <activity
             android:label="@string/app_name"
             android:name=".fragments.MainActivity" >
@@ -100,6 +99,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        -->
         
         <activity android:name=".fragments.ExplanationActivity">
         	<intent-filter>

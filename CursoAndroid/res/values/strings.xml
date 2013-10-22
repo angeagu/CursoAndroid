@@ -27,6 +27,8 @@
     
     <string name="aplicacionMenu">Aplicacion con Menus</string>
     
+    <string name="foto">¡Foto!</string>
+    
     <string name="concepto">Concepto</string>
     <string name="fecha">Fecha</string>
     <string name="importe">Importe</string>

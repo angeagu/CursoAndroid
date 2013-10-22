@@ -169,7 +169,6 @@ public class TestLocationActivity extends Activity {
 	        		}
 	        	});
 	        	
-	        	
 	        }
 	        else {
 	        	//Si el GPS no está encendido...

@@ -4,24 +4,32 @@
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	android:layout_width="fill_parent"
 	android:layout_height="fill_parent"
-	android:orientation = "vertical"
-	android:gravity = "bottom"
-	android:layout_gravity = "bottom">
+	android:orientation = "vertical">
 	
-	<LinearLayout
-		xmlns:android = "http://schemas.android.com/apk/res/android"
-		android:layout_width = "fill_parent"
-		android:layout_height = "wrap_content"
-		android:orientation = "horizontal"
-		android:gravity = "center_horizontal">
+	<FrameLayout
+    	android:id="@+id/camera_preview"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:layout_weight="1"
+    />
+
+	<SeekBar
+	    android:id="@+id/seekBar1"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:max="30" />
+	
+	<TextView  
+    	android:id="@+id/TextViewSeekBar" 
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content" 
+    	android:text="" />
 	
 	<Button
 		android:id="@+id/botonFoto"
-		android:layout_width = "wrap_content"
+		android:layout_width = "fill_parent"
 		android:layout_height = "wrap_content"
-		android:text = "FOTO!">
+		android:text = "@string/foto">
 	</Button>
-	
-	</LinearLayout>
 	
 </LinearLayout>

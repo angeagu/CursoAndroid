@@ -9,6 +9,9 @@ package org.android.cursoandroid;
 
 public final class Manifest {
     public static final class permission {
+        /**  Permiso para acceder al Flash de la cámara. 
+         */
+        public static final String FLASHLIGHT="android.permission.FLASHLIGHT";
         /**  Fin Permisos para el GPS 
  Permisos para el API de Google Maps 
          */

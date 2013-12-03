@@ -1,0 +1,17 @@
+ESTRUCTURA DEL CORAZON
+
+Endocardio: membrana endotelial que apoyada en una fina capa de tejido conjuntivo, reviste las cavidades cardiacas, velos valvulares y cuerdas tendinosas.
+
+Miocardio: formado por celulas musculares estriadas cardiacas (miocardiocitos) de contraccion involuntaria y celulas cardionectoras especializadas en la generacion autonoma de impulsos contractiles, en la conduccion de estos impulsos y en la comunicacion de este potencial de accion a los miocardiocitos normales.
+
+Pericardio: saco de tejido fibroso que envuelve al corazon y origen de grandes vasos. Permite movimientos cardiacos y mantiene situacion del corazon en el mediastino. Se fija por uniones conjuntivas al centro frenico del diafragma y peto esternocostal. Serosa pericardica: es un epitelio pavimentoso simple o mesotelio que se apoya en el tejido conjuntivo y evita el contacto directo del pericardio fibroso con el corazon: consta de una hoja visceral o epicardio (se fija al musculo cardiaco), hoja parietal que se fusiona con el pericardio fibroso, cavidad pericardica que contiene 10-15ml de liquido pericardico. En esta cavidad se forman fondos de saco o senos pericardicos: oblicuo (entre venas pulmonares y desembocadura cava inferior) y transverso (entre venas pulmonares y arteria aorta y pulmonar).
+
+INERVACION: ramas simpaticas procedentes de los ganglios cervicales y toracicos, y ramas vagales parasimpaticas. Todos ellos configuran el plexo cardiaco, que lleva tambien fibras aferentes que proceden de los barorreceptores presentes en la aorta y vena cava superior.
+
+VASCULARIZACION: vasos que nutren el corazon reciben el nombre de coronarios, bordean el surco auriculoventricular.
+
+Arterias coronarias: se originan en los senos aorticos (de Valsava).
+ Arteria coronaria derecha: termina en la cara diafragmatica como arteria descendente o interventricular posterior. Da ramas septales para el tabique, ramas auriculares (arteria nodulo sinusal p.ej) y ramas ventriculares (arteria marginal derecha)
+ Arteria coronaria izq (tronco coronario izq): se bifurca en 2 ramas: arteria descendente o interventricular anterior, arteria circunfleja izq.
+
+Drenaje venosos: seno coronario: ppal colector venoso: ocupa la mitad derecha del surco atrioventricular en su cara diafragmatica. Se forma por la confluencia de: vena coronaria mayor (recibe marginal izq), vena coronaria menor (recibe marginal derecha), vena interventricular posterior, vena posterior del ventriculo izq.

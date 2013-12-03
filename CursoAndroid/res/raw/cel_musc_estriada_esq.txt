@@ -1,0 +1,19 @@
+RABDOMIOCITO: es una verdadera celula de forma alargada, cilindrica o fusiforme. GRAN CANTIDAD DE NUCLEOS ALARGADOS Y EN SITUACION PERIFERICA JUNTO A LA MB PLASMATICA. La longitud de estas celulas es muy variable pudiendo alcanzar varios cm. ESTRIACION TRANSVERSAL apreciandose una alternancia de bandas claras (isotropicas o I) y oscuras (anisotropicas o A). diametro 10-100micras.
+
+Membrana plasmatica denominada sarcolema, por fuera de la cual se encuentra una membrana basal en estrecha relacion con el endomisio.Su citoplasma (sarcoplasma) contiene un material proteico contractil que constituye los miofilamentos, los cuales se agrupan en miofibrillas. Son cilindros paralelos en disposicion longitudinal que tienen la misma longitud de la celula, pero un diametro mucho mas reducido. Cada miofibrilla puede dividirse en sarcomeros que estan limitados en sus extremos por bandas Z y muestran la misma estriacion transversal que la cel en su conjunto. Tienen el mismo grosor que la miofibrilla pero menor longitud.
+Las miofibrillas estan constituidas por miofilamentos longitudinalmente dispuestos: gruesos compuestos ppalm por miosina; finos compuestos fundam por actina enrollada en forma de helices entre si.
+Gruesos: 180 molec por cada filamento. Cabeza: proyecciones laterales de los extremos dispuestos en forma helicoidal a lo largo del filamento.constituidas por meromiosina pesada. Cola: se situan en paralelo en la zona lisa central, constituidas por meromiosina ligera.
+Finos: actina. tropomiosina entre 2 hileras de actina. troponina unida a la tropomiosina.
+La especial y ordenada disposicion de los miofilamentos gruesos y finos es la responsable de la estriacion transversal periodica. Regiones sarcomero (unidad estructural y funcional de la miofibrilla): 
+
+A: filamentos gruesos de miosina. en los bordes o partes laterales de esta banda se superponen y entrecruzan miofilamentos finos y gruesos, y en los espacios que existen entre ellos encontramos cabezas de miosina (que contienen la enzima ATPasa q rompe moleculas de ATP liberando la energia necesaria para la contraccion muscular).
+M: engrosamiento central filamentos gruesos. H: solo filamentos gruesos.
+
+I: solo filamentos finos. Z: entrecruzamiento zonas terminales filamentos finos.
+
+Asociado a cada miofibrilla se encuentra el reticulo sarcoplasmico constituido por 2 sistemas:
+- Sistema L (longitudinal): saculos y canaliculos paralelos y anastomosados entre si, que terminan en unas dilataciones saculares denominadas cisternas terminales. (situadas union bandas A e I).
+- Sistema T (transversal): se encuentra flanqueado por 2 cisternas terminales. Conductos formados por invaginaciones tubulares de la mb plasmatica que rodean a las miofibrillas a la altura de la union de las bandas A e I. Triadas: cisterna terminal, tubo T, cisterna terminal.
+Este contacto entre mb plasmatica (tubo T) y reticulo sarcoplasmico (sistema L) permite la rapida llegada del impulso electrico a este ultimo, lo que libera iones Ca libres desde el reticulo a estructuras contractiles vecinas, produciendose la contracccion.
+
+En el sarcoplasma encontramos tb : ap golgi poco desarrollado, numerosas mitocondrias (en cadenas paralelas entre las miofibrillas y en la periferia de la cel), inclusiones de gotas de lipidos, glucogeno, LIPOFUCSINA. Numerosos elementos proteicos disueltos: ATP, enzimas, mioglobina, fosfocreatina.

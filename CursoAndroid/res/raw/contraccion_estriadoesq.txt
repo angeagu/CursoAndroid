@@ -1,0 +1,21 @@
+Los impulsos nerviosos que llegan a traves de una ramificacion axonica de una motoneurona del asta anterior alcanzan la placa motora e inducen la liberacion de acetilcolina en la hendidura sinaptica que provoca la despolarizacion del sarcolema y la generacion de un potencial de placa y de un potencial de accion propagado a traves de toda la membrana plasmatica del rabdomiocito.
+
+El impulso electrico llega a los tubos T y a traves de las triadas a los sacos del reticulo sarcoplasmico (sistema L) lo que conduce a la liberacion de los iones Calcio que difunden hacia los miofilamentos.
+LA DESPOLARIZACION DE LA FIBRA MUSCULAR INICIA LA CONTRACCION (ACOPLAMIENTO DE LA EXCITACION-CONTRACCION).
+
+Los iones Calcio comienzan la contraccion al unirse con la troponina C que sufre unas modificaciones estructurales que hacen posible la interaccion de la miosina con la actina.
+
+En el musculo en reposo, la troponina esta fuertemente unida a la actina por la fraccion I y la tropomiosina cubre los puntos donde las cabezas de miosina se unen con la actina. ESTA DISPOSICION IMPIDE LA ACCION RECIPROCA ENTRE LA ACTINA Y LA MIOSINA.
+Cuando el Calcio se une a la troponina C la union de la actina con la troponina se debilita y la tropomiosina se desliza lateralmente quedando al descubierto sitios de combinacion para las cabezas de miosina; se desdobla el ATP y ocurre la contraccion.
+
+La contraccion implica un acortamiento de las sarcomeras y por consiguiente de las miofibrillas y del musculo en su conjunto, debido a un DESLIZAMIENTO DE LOS MIOFILAMENTOS DE ACTINA SOBRE LOS DE MIOSINA producido por la rotura y regeneracion de enlaces cruzados entre la actina y la miosina, debido a la inestabilidad generada por la union del calcio a la troponina.
+
+Los filamentos de actina se aproximan entre si desde los extremos opuestos de la sarcomera hacia el centro de la banda A y como consecuencia se acercan las lineas Z, se acortan las hemibandas I y PERMANECEN CONSTANTES LAS BANDAS A. NO HAY MODIFICACION EN LA LONGITUD DE LOS MIOFILAMENTOS, SOLO DESPLAZAMIENTO DE ESTOS.
+
+La energia para este proceso procede de la hidrolisis del ATP al romperse enlaces macroergicos de fosfato. Esta actividad ATPasica reside en las cabezas de miosina.
+Un tiempo despues tras la liberacion del calcio, el reticulo sarcoplasmico comienza a recuperarlo e introducirlo de nuevo en sus camaras por un mecanismo de transporte activo, se separa de la troponina y cesa la accion reciproca entre actina y miosina produciendose la relajacion. La duracion del impulso excitador esta limitado en la placa motora por la rapida accion de la acetilcolinesterasa presente en el sarcolema de las hendiduras secundarias, que rompen la molecula de acetilcolina.
+
+SUMA DE CONTRACCIONES: consiste en que la estimulacion repetida antes de que se produzca la relajacion provoca una activacion adicional del material contractil y en consecuencia, una respuesta añadida a la contraccion inicial.Esto se debe a que el mecanismo contractil no tiene periodo refractario y el periodo refractario electrico es mucho mas breve q el proceso contractil. Con una estimulacion repetida rapidamente se fusionan las respuestas individuales sin que exista relajacion alguna, produciendose una contraccion continua denominada tetanica.
+La contraccion muscular produce calor como consecuencia del gasto energetico.
+Husos neuromusculares: regular el grado de contraccion muscular en relacion con el estimulo.
+Organos tendinosos: previenen al musculo para que la contraccion muscular no sea excesiva

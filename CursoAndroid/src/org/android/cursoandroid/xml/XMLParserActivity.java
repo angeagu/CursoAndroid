@@ -64,7 +64,6 @@ public class XMLParserActivity extends Activity {
             layoutEquipos.addView(tViewJugadores);
             
             ListView listViewJugadores = new ListView(this);
-            listViewJugadores.setBackgroundColor(Color.WHITE);
 	        
 	        String[] jugadores = new String[3];
 	        jugadores[0] = jugador1;

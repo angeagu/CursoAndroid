@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    	    android:id="@+id/scrollView1"
+    	    android:layout_width="match_parent"
+    	    android:layout_height="wrap_content"
+    	    android:background="@android:color/darker_gray" >
+
+	<LinearLayout 
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="vertical"
+    	android:background="@android:color/darker_gray">
+    
+    	<TextView
+        android:id="@+id/TextViewHolaMundo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/HolaMundo" />
+    	
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+    
+    	<TextView
+        android:id="@+id/TextViewMostrarSaludo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/MostrarSaludo" />
+    
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+    	
+    	<TextView
+        android:id="@+id/TextViewProcesarFormulario"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ProcesarFormulario" />
+    
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+    	
+    	<TextView
+        android:id="@+id/TextViewDemoAppFacturas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/DemoAppFacturas" />
+    
+    	
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+    	
+    	<TextView
+        	android:id="@+id/TextViewFicheroMemInterna"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/FicheroMemInterna" />
+    	
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+    	
+    	<TextView
+        android:id="@+id/TextViewVisorFicheros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/VisorFicheros" />
+    
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+    	
+    	<TextView
+        android:id="@+id/TextViewProcesadoXML"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ProcesadoXML" />
+    
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+    	
+	    <TextView
+        android:id="@+id/TextViewTestLocationGPS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/TestLocationGPS" />
+    
+	    <View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+	    
+    	<TextView
+        android:id="@+id/TextViewDemoMapas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/DemoMapas" />
+    
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+    	
+    	<TextView
+        android:id="@+id/TextViewCamara"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Camara" />
+    
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+    	
+    	<TextView
+        android:id="@+id/TextViewFragments"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Fragments" />
+    	
+    	<View
+    	android:layout_width="fill_parent"
+    	android:layout_height="2dp"
+    	android:background="@android:color/black"/>
+
+</LinearLayout>
+
+</ScrollView>

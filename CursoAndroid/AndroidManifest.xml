@@ -36,6 +36,11 @@
 	
     <uses-feature android:name="android.hardware.camera" />
     
+    <!-- Permiso para acceder al Flash de la cámara. -->
+ 	<permission android:name="android.permission.FLASHLIGHT"
+          android:permissionGroup="android.permission-group.HARDWARE_CONTROLS"
+          android:protectionLevel="normal"/>
+    
     <application
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
@@ -50,56 +55,42 @@
         android:name="com.google.android.maps"
         android:required="false" />
         
-        <!-- 
         <activity
             android:label="@string/app_name"
-            android:name=".mapas.MapsActivity" >
-            <intent-filter >
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        -->
-        
-        <activity android:name=".mapas.MostrarRutaActivity">
-        	<intent-filter>
-        		<action android:name="android.intent.action.view" />
-        		<category android:name="android.intent.category.DEFAULT" />
-        	</intent-filter>
-       	</activity>
-        
-        <!-- 
-        
-        <activity
-            android:label="@string/app_name"
-            android:name=".gps.TestLocationActivity" >
+            android:name=".main.MainActivity" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         
-         --> 
-        
+        <activity
+            android:label="@string/app_name"
+            android:name=".holamundo.HolaMundoActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+                
         <activity
             android:label="@string/app_name"
             android:name=".camara.CamaraActivity" >
             <intent-filter >
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+
         
-        <!-- 
         <activity
             android:label="@string/app_name"
             android:name=".fragments.MainActivity" >
             <intent-filter >
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        -->
         
         <activity android:name=".fragments.ExplanationActivity">
         	<intent-filter>
@@ -107,7 +98,35 @@
         		<category android:name="android.intent.category.DEFAULT" />
         	</intent-filter>
        	</activity>
-            
+        
+        <activity android:name=".ficheros.VisorFicherosActivity">
+        	<intent-filter>
+        		<action android:name="android.intent.action.view" />
+        		<category android:name="android.intent.category.DEFAULT" />
+        	</intent-filter>
+       	</activity>
+       	
+        <activity android:name=".ficheros.MuestraFicheroActivity">
+        	<intent-filter>
+        		<action android:name="android.intent.action.view" />
+        		<category android:name="android.intent.category.DEFAULT" />
+        	</intent-filter>
+       	</activity>
+        
+        <activity android:name=".ficheros.FicheroMemInternaActivity">
+        	<intent-filter>
+        		<action android:name="android.intent.action.view" />
+        		<category android:name="android.intent.category.DEFAULT" />
+        	</intent-filter>
+       	</activity>
+        
+        <activity android:name=".saludo.SaludoActivity">
+        	<intent-filter>
+        		<action android:name="android.intent.action.view" />
+        		<category android:name="android.intent.category.DEFAULT" />
+        	</intent-filter>
+       	</activity>
+        
         <activity android:name=".saludo.MostrarSaludoActivity">
         	<intent-filter>
         		<action android:name="android.intent.action.view" />
@@ -115,6 +134,13 @@
         	</intent-filter>
        	</activity>
        	
+        <activity android:name=".facturas.MuestraFacturasActivity">
+        	<intent-filter>
+        		<action android:name="android.intent.action.view" />
+        		<category android:name="android.intent.category.DEFAULT" />
+        	</intent-filter>
+       	</activity>
+        
         <activity android:name=".facturas.NuevaFacturaActivity">
         	<intent-filter>
         		<action android:name="android.intent.action.view" />
@@ -122,6 +148,13 @@
         	</intent-filter>
        	</activity>
        	
+        <activity android:name=".formulario.MostrarFormularioActivity">
+        	<intent-filter>
+        		<action android:name="android.intent.action.view" />
+        		<category android:name="android.intent.category.DEFAULT" />
+        	</intent-filter>
+       	</activity> 
+        
        <activity android:name=".formulario.ProcesarFormularioActivity">
         	<intent-filter>
         		<action android:name="android.intent.action.view" />
@@ -129,6 +162,53 @@
         	</intent-filter>
        	</activity>
        	
+        <activity android:name=".xml.XMLParserActivity">
+        	<intent-filter>
+        		<action android:name="android.intent.action.view" />
+        		<category android:name="android.intent.category.DEFAULT" />
+        	</intent-filter>
+       	</activity>
+       	
+       
+       <activity
+            android:label="@string/app_name"
+            android:name=".mapas.MapsActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity android:name=".mapas.MostrarRutaActivity">
+        	<intent-filter>
+        		<action android:name="android.intent.action.VIEW" />
+        		<category android:name="android.intent.category.DEFAULT" />
+        	</intent-filter>
+       	</activity>
+       
+        <activity
+            android:label="@string/app_name"
+            android:name=".gps.TestLocationActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+       	
+        <receiver android:name=".widget.LanternWidget" android:label="@string/LanternWidget">
+        	<!-- Definimos los mensajes (intents) personalizados que el
+        	widget será capaz de atender. -->
+        	<intent-filter>
+           		<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+           		<action android:name="com.example.lanternwidget.intents.TOGGLE_LINTERNA"/>
+   			</intent-filter>
+        	<meta-data
+	           	android:name="android.appwidget.provider"
+           		android:resource="@xml/lantern_widgetprovider" />
+    	</receiver>
+        
+        <!-- 
         <receiver android:name=".widget.MiWidget" android:label="Mi Primer Widget">
         <intent-filter>
            <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
@@ -138,9 +218,8 @@
            android:name="android.appwidget.provider"
            android:resource="@xml/miwidget_wprovider" />
         
-        
-        
-    </receiver>
+		</receiver>
+     --> 
             
     </application>
 

@@ -1,0 +1,28 @@
+El tejido epitelial tiene dos características generales:
+La intensa cohesión entre sus células y, por tanto, la presencia de muy escasa sustancia intercelular, representada por una pequeña cantidad de mucopolisacáridos ricos en cationes, principalmente calcio.
+La polaridad.
+El tejido epitelial deriva embriológicamente de forma preferente del ectodermo y del endodermo.
+
+La cohesión intercelular se debe a una mínima presencia de sustancia intercelular y a la frecuente existencia de una serie de mecanismos estructurales, existentes en sus membranas, que aproximan o unen unas células epiteliales con otras, generando unas barreras muy compactas. Dentro de esta especial disposición, en primer lugar cabe destacar que las membranas de estas células se encuentran frecuentemente interdigitadas.
+Además de esta especial disposición de la membrana plasmática, existen unos mecanismos específicos de unión intercelular que se establecen entre las caras laterales de dos células vecinas, o entre el polo basal y el tejido adyacente, y sirven también como puntos de anclaje para los tonofilamentos, contribuyendo a la estabilidad de la estructura celular.
+De acuerdo con su amplitud, estos mecanismos pueden ser: 
+Tipo mácula: si afecta a una pequeña zona discoidal de la célula.
+Tipo zónula: si se trata de una banda que abarca toda la circunferencia celular.
+Teniendo en cuanta el grado de proximidad, las uniones se dividen en:
+Tipo adherens o adherente: si existe espacio de separación entre células vecinas, aunque muy reducido.
+Tipo occludens o de oclusión: hay contacto físico entre las hijas externas de las membranas de células vecinas, desapareciendo por tanto el espacio intercelular. Se denominan uniones cerradas o tight-junction
+Existe otro mecanismo de unión intercelular que establece una gran proximidad entre las laminillas externas de las membranas sin que exista contacto. Se denomina nexos, uniones gap o gap-junction. Aunque estas uniones se encuentran en los epitelios, son más frecuentes en otros tejidos, principalmente en el muscular, y además de mecanismos de unión representan medios de comunicación entre las células. Las uniones gap, a diferencia de las tight-junction que son pentalaminares, son de tipo heptalaminar.
+En la práctica los mecanismos más habituales que se encuentran en los epitelios son:
+Desmosomas: uniones de tipo mácula adherens en los que se aprecia un engrosamiento de la hoja interna de la membrana plasmática de ambas células, una zona fibrilar densa paralela –al lado de dicho engrosamiento-, numerosos tonofilamentos convergiendo hacia ella y, por último, una sustancia compacta en el espacio intercelular.
+Complejos de unión: se encuentran en las caras laterales de los epitelios, próximos a sus polo apicales, compuestos por tres elementos que en un sentido apicobasal son: zónula occludens, zónula adherens y mácula adherens. Se denomina también bandas de cierre o bandas terminales.
+
+La polaridad se manifiesta en la existencia de un polo apical libre, en relación con la superficie externa del organismo o con la luz de una cavidad abierta o cerrad, y de un polo basal, por el que se continúa con el resto de las estructuras del organismo. 
+Esta diversidad establece una polaridad funcional, en la cual, como parece lógico, la mayor especificidad radica en el polo apical. El polo basal de todas las células epiteliales que entran en contacto con las restantes estructuras del organismo, en general tejido conjuntivo, se encuentran separadas de éste por una capa continua y delgada de estructuras filamentosa denominada lámina basal, que se halla en contacto con la membrana plasmática del polo basal de las células epiteliales y es elaborada por ellas mismas. Existen mecanismos de unión denominados hemidesmosomas entre dicho polo y la lámina basal subyacente. 
+Por debajo se observan fascículos de fibras reticulares en el seno de la sustancia fundamental amorfa, elementos elaborados por el tejido conjuntivo subyacente. La lámina basal, junto al material fibrilar reticular, constituyen la membrana basal.
+Las células epiteliales se clasifican según su forma en planas o pavimentosas, cuando su anchura es mayor que su altura; cúbicas, cuando ambas dimensiones son semejantes, y prismáticas o cilíndricas, cuando la altura es superior a la anchura.
+Estas células se pueden disponer en un solo estrato, en cuyo caso se designan epitelios simples, o en varios estratos, denominándose entonces epitelios estratificados. Asimismo, existe una categoría intermedia, epitelios seudoestratificados, en los que realmente hay una única capa de células que asientan sobre la lámina basal, pero que alcanzan diferentes alturas sin llegar todas a contactar con la luz apical. En este caso, los núcleos, situados a diferentes alturas, dan un aspecto falsamente estratificado al epitelio, de donde proviene se denominación.
+
+Nutrición: los epitelios carecen de vasos tanto sanguíneos como linfáticos, es decir, los epitelios son avasculares; se nutren por difusión a partir de los capilares del tejido conjuntivo subyacente.
+Inervación: en algunos epitelios se encuentran terminaciones nerviosas sensitivas, como en el caso de la epidermis.
+Regeneración: las células epiteliales tienen por lo general una corta vida y un elevado índice de regeneración. Esta regeneración se produce por divisiones celulares a partir del estrato basal.
+Funciones: se han analizado antes al tratar las especializaciones. Morfológicamente, las células se diferencian según la actividad funcional en: protección, absorción, excreción, secreción, recepción sensitiva y sensorial.

@@ -1,0 +1,48 @@
+Una célula secretora es aquella que sintetiza una sustancia para liberarla al exterior, no siendo utilizada por la propia célula productora. El concepto de secreción es diferente, pues, al de elaboración, proceso que realizan casi todas las células y que corresponde a la síntesis de productos para la utilización por la propia célula.
+
+La secreción es una actividad que realizan numerosos tipos de células: neuronas y moléculas neurotransmisoras; osteoblastos, proteínas y glucoproteínas de la matriz ósea; condroblastos de la matriz cartilaginosa; fibroblastos de la matriz del tejido conjuntivo; células plasmáticas, inmunoglobulinas (anticuerpos); mastocitos, heparina e histamina; macrófagos, interferón y factores del complemento, etc.
+
+Las células glandulares son las células secretoras de naturaleza epitelial, y solo a los epitelios con capacidad secretora se les puede denominar así. Las células epiteliales con capacidad secretora pueden localizarse en los epitelios de revestimiento o bien constituyendo estructuras individualizadas en el seno del tejido conjuntivo. Así nos referimos a:
+Células glandulares de los epitelios de revestimiento: pueden ser células individuales aisladas (glándulas unicelulares), pequeños grupos de células (glándulas intraepiteliales) o la totalidad del revestimiento epitelial (epitelio secretor).
+Glándulas: estructuras individualizadas constituidas por grupos de células epiteliales secretoras rodeadas por tejido conjuntivo, que proceden generalmente en su origen de brotes desprendidos de los epitelios de revestimiento. Pueden constituir agrupaciones identificables microscópicamente (tiroides, páncreas, parótida, suprarrenales, etc.) o bien agregados microscópicos en el seno de las paredes de órganos huecos: tubo digestivo, vías respiratorias, vías reproductoras, etc.
+Desde el punto de vista del producto secretado, las células glandulares y las glándulas pueden ser: 
+Exocrinas: si vierten el producto al medio externo (superficies en contacto con luces relacionadas con el exterior). 
+Endocrinas: si vierten su secreción al medio interno (sangre y líquido intersticial).
+Mixtas: si secretan productos para ser liberados tanto al medio externo como interno.
+Las glándulas exocrinas alcanzan dichas superficies por medio de un conducto excretor, salvo en el caso de que se encuentren situadas en un epitelio de revestimiento. 
+Las glándulas endocrinas vierten su producto de secreción directamente a la sangre, en los capilares sanguíneos, y por lo tanto carecen de conducto excretor. Su producto e secreción se denomina hormona.
+Las glándulas mixtas pueden corresponder a dos situaciones: un tipo de célula que posee las dos funciones en diferentes polos, caso del hígado, o bien una glándula constituida por grupos células exocrinas y otros diferentes de naturaleza endocrina, caso del páncreas o el testículo.
+Las glándulas proceden de los epitelios de revestimiento embrionarios a partir de una yema o gemación sólida, constituida por un grupo de células diferenciadas, que se introducen en el mesénquima subyacente. Si posteriormente se canaliza en su porción central y permanece en contacto con el epitelio superficial de origen, unida por un conducto excretor, se trata de una glándula exocrina. Si la yema se desprende del epitelio originando en su totalidad, perdiendo el contacto y quedando inmersa en el mesénquima, constituye una glándula endocrina.
+La actividad glandular depende de factores genéticos y de factores exógenos a través de la regulación nerviosa (sistema vegetativo) y hormonal.
+Por fuera de las unidades secretoras de algunas glándulas, entres sus células constituyentes y la lámina basal, se pueden encontrar unas células con capacidad contráctil denominadas células mioepiteliales, cuya actividad favorece la expulsión del producto hacia los conductos. Se encuentran en las glándulas sudoríparas, salivales y mamarias.
+
+Glándulas endocrinas: desde el punto de vista estructural, todas las glándulas endocrinas presentan las mismas características y están constituidas por agrupaciones de células epiteliales secretoras que pueden adoptar muy diferentes formas: nidos, cordones, islotes, folículos, etc., rodeadas externamente por su correspondiente lámina basal que las separa del tejido conjuntivo distribuido en finas trabéculas, que sirven de soporte a numerosísimos capilares sanguíneos de tipo fenestrado o poroso.
+Pueden existir células glandulares endocrinas en los epitelios de revestimiento, eliminándose lógicamente su secreción por el polo basal. Son las células endocrinas de diferentes mucosas, en particular digestiva, respiratoria y urinaria.
+Algunas hormonas son secretadas por neuronas, como es el caso de las neuronas hipotalámicas, constituyendo la neurosecrección.
+Las hormonas presentan diferentes estructuras bioquímicas, lo que determina características especiales en las células productoras según dicha naturaleza. Las glándulas pueden ser:
+-	 De secreción polipeptídica, proteica o glucoproteica: presentan las características y los mecanismos propios de la secreción proteica, que incluyen un nucléolo prominente, un retículo endoplásmico granular muy desarrollado, abundante aparato de Golgi y presencia de granos de secreción. La secreción se vierte por exocitosis.
+-	Secretoras de aminas biógenas: producen hormonas como catecolaminas (adrenalina y noradrenalina), serotonina y melatonina, a partir de aminoácidos procedentes de la sangre (tirosina para las catecolaminas y triptófano para la serotonina y la melatonina). 
+La principal característica morfológica es la presencia de vesículas de corazón denso, granos de secreción redondeados que muestran un centro muy denso, separado de la membrana externa por un halo claro. 
+-	Secretoras de productos esteroideos: son hormonas derivadas del colesterol, de naturaleza lipidia, como los corticoides y las hormonas sexuales masculinas y femeninas. Esta síntesis se produce en las mitocondrias y en el retículo endoplásmico liso, apareciendo estas estructuras especialmente desarrolladas. Las mitocondrias muestran crestas tubulares. El producto secretado se acumula en vacuolas lipídicas, lo que confiere a estas células un aspecto esponjoso (espongiocitos) cuando se observan con técnicas histológicas de rutina que utilizan disolventes de las grasas. 
+-	Secretoras de yodoproteínas: son las hormonas tiroideas T3 y T4, producidas por los tirocitos de los folículos de la glándula tiroidea, con unas características y un mecanismo de secreción muy específicos.
+
+Glándulas exocrinas: la mayoría de estas glándulas, con excepción de las que se encuentran en los epitelios de revestimiento, constan de una porción secretora y un conducto excretor.
+Según la forma del conducto excretor, pueden ser: 
+Simples: el conducto es un tubo único.
+Compuestas: se trata de un tubo ramificado.
+
+Según la forma de la porción secretora pueden ser:
+Tubulares: se trata de un tubo alargado que puede aparecer recto, contorneado o ramificado.
+Acinares: la porción secretora es una pequeña esfera de luz muy reducida.
+Alveolares: semejantes a las acinares pero con una amplia luz. 
+Se pueden encontrar formas mixtas e intermedias.
+Obviamente, las formaciones exocrinas de los epitelios de revestimiento (glándulas unicelulares, glándulas intraepiteliales y epitelios secretores de revestimiento) carecen de conducto excretor. Además de por su estructura, las glándulas exocrinas se pueden clasificar por otros criterios, como los siguientes:
+1.- Naturaleza bioquímica del producto de secreción:
+Las glándulas serosas elaboran productos proteicos puros; son proteínas enzimáticas.
+En el caso de los ácinos pancreáticos, la parótida, las células principales del estómago, etc.
+Las glándulas mucosas secretan productos de naturaleza glucoproteica que sirven para la lubricación de las mucosas. Son muy abundantes: células caliciformes, células mucosas de numerosas superficies, glándulas del tubo digestivo, vías respiratorias, tracto urogenital, etc. al microscopio óptico presentan un aspecto más claro que las serosas por el material de secreción acumulado.
+Las glándulas mixtas presentan células con capacidad de secreción mucosa y serosa o bien grupos de células mucosas y otras serosas. Se denominan también seromucosas.
+2.- Mecanismos de secreción:
+Las glándulas merocrinas vierten el producto por exocitosis, mediante la unión de la membrana del granulo con la membrana citoplasmática y la posterior apertura de la zona de conjunción con la liberación del producto. Es el mecanismo más frecuente.
+Las glándulas holocrinas eliminan, junto con el producto de secreción, la totalidad de sus células. Es el caso de las glándulas sebáceas cutáneas.
+Las glándulas apocrinas eliminan la porción superior de la célula que contiene el producto, produciéndose un descabezamiento. Es el caso de las glándulas mamarias, en las que la porción lipídica de la leche se secreta de esta forma.

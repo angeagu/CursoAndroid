@@ -14,7 +14,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
-public class FicherosActivity extends Activity {
+public class FicheroMemInternaActivity extends Activity {
 
 	/** Called when the activity is first created. */
     @Override
